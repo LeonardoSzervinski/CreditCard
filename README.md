@@ -20,7 +20,8 @@
 
 
 ## Step 2 
-![image](https://github.com/LeonardoSzervinski/CreditCard/assets/99694844/313a4bd7-ea0b-4299-bf8f-1f74ee1438fd)
+
+![image](https://github.com/LeonardoSzervinski/CreditCard/assets/99694844/dc23a0e6-0f1e-47ed-95c9-8515ef38fecb)
 
 #
 
